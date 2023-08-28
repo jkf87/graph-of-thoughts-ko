@@ -4,9 +4,9 @@
   <img src="paper/pics/preview.svg">
 </p>
 
-This is the official implementation of [Graph of Thoughts: Solving Elaborate Problems with Large Language Models](https://arxiv.org/pdf/2308.09687.pdf).  
-This framework gives you the ability to solve complex problems by modeling them as a Graph of Operations (GoO), which is automatically executed with a Large Language Model (LLM) as the engine.  
-This framework is designed to be flexible and extensible, allowing you to not only solve problems using the new GoT approach, but also to implement GoOs resembling previous approaches like CoT or ToT.
+이것은 [생각의 그래프]의 공식 구현입니다: 대규모 언어 모델로 정교한 문제 해결하기](https://arxiv.org/pdf/2308.09687.pdf). 
+이 프레임워크는 대규모 언어 모델(LLM)을 엔진으로 하여 자동으로 실행되는 작업 그래프(GoO)로 모델링하여 복잡한 문제를 해결할 수 있는 기능을 제공합니다. 
+이 프레임워크는 유연하고 확장 가능하도록 설계되어 새로운 GoT 접근 방식을 사용하여 문제를 해결할 수 있을 뿐만 아니라 CoT 또는 ToT와 같은 이전 접근 방식과 유사한 GoO를 구현할 수도 있습니다.
 
 ## Setup Guide
 
